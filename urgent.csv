@@ -1,0 +1,2 @@
+﻿feedback_id,feedback_text,category,sentiment,urgent,reason,needs_manual_review
+WEB001,I found a dead rat inside the sambar,hygiene,negative,True,"The feedback reports a dead rat in the sambar, indicating a serious hygiene and safety issue that requires immediate attention.",False

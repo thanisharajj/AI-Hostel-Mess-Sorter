@@ -1,0 +1,13 @@
+HOSTEL MESS FEEDBACK SUMMARY
+================================
+Total feedback: 1
+Urgent feedback: 1
+Needs manual review: 0
+
+CATEGORY BREAKDOWN
+- hygiene: 1
+
+SENTIMENT BREAKDOWN
+- negative: 1
+
+Note: AI labels are suggestions. The mess committee/warden must review concerns and decide actions.
